@@ -14,11 +14,9 @@ SCORE_MATRIX = {
   'A X': ROCK + DRAW,
   'B X': ROCK + LOSE,
   'C X': ROCK + WIN,
-
   'A Y': PAPER + WIN,
   'B Y': PAPER + DRAW,
   'C Y': PAPER + LOSE,
-
   'A Z': SCISSORS + LOSE,
   'B Z': SCISSORS + WIN,
   'C Z': SCISSORS + DRAW
@@ -34,12 +32,10 @@ SCORE_MATRIX_2 = {
   'A X': SCISSORS + LOSE,
   'A Y': ROCK + DRAW,
   'A Z': PAPER + WIN,
-
   # Paper
   'B X': ROCK + LOSE,
   'B Y': PAPER + DRAW,
   'B Z': SCISSORS + WIN,
-
   # Scissors
   'C X': PAPER + LOSE,
   'C Y': SCISSORS + DRAW,

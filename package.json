@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ted C. Howard <ted@tedchoward.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-ruby": "^4.0.3",
+    "prettier": "^3.1.0"
+  }
+}
